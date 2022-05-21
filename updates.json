@@ -5,7 +5,7 @@
         "author" : "<a href='https://github.com/Lyohha'>Lyohha</a>",
         "author_profile" : "https://github.com/Lyohha",
         "version" : "1.2.0",
-        "download_url" : "https://github.com/Lyohha/wp-multilang-gutenberg/releases/download/1.1.2/wp-multilang-gutenberg_1.1.2.zip",
+        "download_url" : "https://github.com/Lyohha/wp-multilang-gutenberg/releases/download/1.2.0/wp-multilang-gutenberg.zip",
         "requires" : "3.0",
         "tested" : "5.9",
         "requires_php" : "5.3",
@@ -13,7 +13,7 @@
         "sections" : {
             "description" : "Fix bugs with translate content in Gutenberg editor",
             "installation" : "Click the activate button and that's it.",
-            "changelog" : "<h4>1.0.0 – 7 may 2022</h4><ul><li>Release.</li></ul><h4>1.1.0 – 12 may 2022</h4><ul><li>Add translate for link in Gutenberg.</li></ul><h4>1.1.2 – 13 may 2022</h4><ul><li>Remove not used action.</li></ul><h4>1.2.0 – 21 may 2022</h4><ul><li>Add auto updates.</li><li>Change action for translate ACF fields in Gutenberg editor.</li></ul>"
+            "changelog" : "<h4>1.2.0 – 21 may 2022</h4><ul><li>Add mechanism for auto updates.</li><li>Change fix for broken ACF blocks.</li></ul><h4>1.1.2 – 13 may 2022</h4><ul><li>Remove not used action.</li></ul><h4>1.1.0 – 12 may 2022</h4><ul><li>Add translate for link in Gutenberg.</li></ul><h4>1.0.0 – 7 may 2022</h4><ul><li>Release.</li></ul>"
         },
         "banners" : {
             "low" : "https://lyohha.github.io/plugin-releases/wp-multilang-gutenberg/banner-772x250.png",
